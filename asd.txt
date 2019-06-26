@@ -1,0 +1,7 @@
+Hi My name is raj
+<<<<<<< HEAD
+BP tmkc
+mnj
+=======
+BP tmkc bsdk
+>>>>>>> 7703dfb2da8dd0e8c239e8214aaf15589184382e
